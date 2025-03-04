@@ -1,0 +1,4 @@
+Build/CrucifyWeb.data filter=lfs diff=lfs merge=lfs -text
+Build/*.data filter=lfs diff=lfs merge=lfs -text
+Build/*.wasm filter=lfs diff=lfs merge=lfs -text
+Build/*.mem filter=lfs diff=lfs merge=lfs -text
